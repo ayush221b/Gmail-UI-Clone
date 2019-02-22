@@ -1,6 +1,6 @@
 # gmail_copy
 
-A new Flutter project.
+A new Flutter project. This app is basically just to demonstrate the implementation of different parts of the Gmail App UI via Flutter.
 
 ## Getting Started
 
