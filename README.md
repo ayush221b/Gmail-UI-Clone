@@ -2,6 +2,10 @@
 
 A new Flutter project. This app is basically just to demonstrate the implementation of different parts of the Gmail App UI via Flutter.
 
+Screenshots:
+
+![image](https://i.postimg.cc/T3rZQp2D/Screenshot-2019-02-25-23-49-43-580-com-example-gmailcopy.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
