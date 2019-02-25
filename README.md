@@ -4,9 +4,10 @@ A new Flutter project. This app is basically just to demonstrate the implementat
 
 Screenshots:
 
+![image](https://i.postimg.cc/KYxCWx4s/Screenshot-2019-02-25-23-50-05-490-com-example-gmailcopy.png)
 ![image](https://i.postimg.cc/T3rZQp2D/Screenshot-2019-02-25-23-49-43-580-com-example-gmailcopy.png)
 ![image](https://i.postimg.cc/8C4xQ96k/Screenshot-2019-02-25-23-49-58-405-com-example-gmailcopy.png)
-![image](https://i.postimg.cc/KYxCWx4s/Screenshot-2019-02-25-23-50-05-490-com-example-gmailcopy.png)
+
 
 ## Getting Started
 
